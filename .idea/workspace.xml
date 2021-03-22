@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df215411-b71b-42ee-bc71-4f31722051ad" name="Default Changelist" comment="classwork01">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="df215411-b71b-42ee-bc71-4f31722051ad" name="Default Changelist" comment="html01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <favorite-branches>
       <branch-storage>
         <map>
@@ -18,6 +36,7 @@
               <list>
                 <branch-info source="pract_work03" />
                 <branch-info source="main" />
+                <branch-info repo="$PROJECT_DIR$" source="html01" />
               </list>
             </value>
           </entry>
@@ -25,6 +44,7 @@
             <value>
               <list>
                 <branch-info source="origin/main" />
+                <branch-info repo="$PROJECT_DIR$" source="origin/html01" />
               </list>
             </value>
           </entry>
@@ -93,6 +113,7 @@
       <workItem from="1616357449308" duration="413000" />
       <workItem from="1616358593997" duration="398000" />
       <workItem from="1616359006535" duration="577000" />
+      <workItem from="1616392911880" duration="164000" />
     </task>
     <task id="LOCAL-00001" summary="classwork01">
       <created>1616359256324</created>
@@ -101,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616359256324</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="html0101">
+      <created>1616393008073</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616393008073</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +149,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="classwork01" />
-    <option name="LAST_COMMIT_MESSAGE" value="classwork01" />
+    <MESSAGE value="html0101" />
+    <option name="LAST_COMMIT_MESSAGE" value="html0101" />
   </component>
 </project>
